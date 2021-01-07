@@ -1,10 +1,7 @@
 import React from 'react';
-// import { withRouter, Redirect} from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { Carousel } from 'react-bootstrap';
 import logo from '../images/logo-principal.png';
-// import prueba from '../images/imagen-referencial.jpg';
-// import firebase from '../controller/firebaseConfig';
-// import { AuthContext } from '../controller/Auth';
 import logo1 from '../images/photo-login1.jpeg';
 import logo2 from '../images/photo-login2.jpeg';
 import logo3 from '../images/photo-login3.jpeg';
@@ -77,7 +74,9 @@ const Login = () => {
           </select> */}
           <input type="email" name="email" className="form-control my-3 bottom px-0" placeholder="DNI" required />
           <input type="password" name="pass" className="form-control my-3 bottom px-0" placeholder="CONTRASEÑA" required />
-          <button className="btn btn-blue my-3 text-white rounded-pill-6 w-90" type="submit">INICIAR SESIÓN</button>
+          <Link to ="/home" >
+            <button className="btn btn-blue my-3 text-white rounded-pill-6 w-90" type="submit">INICIAR SESIÓN</button>
+          </Link>
           <p> Olvidaste tu contraseña recuperar contraseña</p>
         </form>
       </div>
