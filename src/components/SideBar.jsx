@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
 import logo from '../images/logo-principal.png';
 
 
@@ -57,7 +58,7 @@ const SideBar = () => {
                           <ul className="active_menu">
                             <a href="/#" className="active_sublink">Crear nuevo socio</a>
                             <a href="/#" className="active_sublink">Ficha de socio</a>
-                            <a href="/#/PartnerRequests" className="active_sublink">Solicitudes de socios</a>
+                            <Link to ="/partnerRequests" className="active_sublink">Solicitudes de socios</Link>
                             <a href="/#" className="active_sublink">Stand By</a>
                           </ul>
                       </div>

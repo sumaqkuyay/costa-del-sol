@@ -4,8 +4,9 @@ import {
 } from 'react-router-dom';
 import Login from './views/Login';
 import Home from './views/Home';
-import './sass/index.scss';
 import PartnerRequests from './views/PartnerRequests';
+import './sass/index.scss';
+
 
 
 const App = () => (
@@ -14,7 +15,7 @@ const App = () => (
       <Switch>
         <Route path="/" exact component={Login} />
         <Route path="/home" exact component={Home} />
-        <Route path="/PartnerRequests" exact component={PartnerRequests} />
+        <Route path="/partnerRequests" exact component={PartnerRequests} />
       </Switch>
     </HashRouter>
   </Router>
