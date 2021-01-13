@@ -1,0 +1,123 @@
+.sub-navbar{
+  background: #293D7F;
+  height: 60px;
+  margin-top: 60px;
+  margin-left: 208px;
+  display: flex;
+  align-items: center;
+  & a{
+      text-decoration: none;
+  }
+  &  span{
+      margin-left: 50px;
+      font-size: 20px;
+      color: white;
+      &:hover{
+          color: #64A3C6;
+      }
+  }
+}
+.textoRegreso{
+  // background-color: rgb(230, 224, 224);
+  display: flex;
+  margin-left: 210px;
+  margin-top: 10px;
+  & span{
+      color: black;
+  }
+  & i{
+      margin-left: 30px;
+      color: #F06123
+  }
+}
+.contenedorLista{
+  display: flex;
+  width: 900px;
+  margin-left:340px;
+  flex-direction: column;
+  margin-bottom: 15px;
+  // background-color: red;
+  & div{
+    padding: 15px;
+    background-color: #F1F1F1;
+  }
+}
+.contenedorHeader{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-between;
+  & .nameInvitado{
+      // background-color: greenyellow;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      text-align: center;
+      height: 80px;
+      & p {
+          // margin-left: 10px;
+          margin-top: 13px;
+          font-size: 16px;
+          margin-left: 10px;
+          // width: 156px;
+          color: #293D7F;
+      }
+      & img{
+          width: 50px;
+          height: 50px;
+          margin-left: 20px;
+      }
+
+  }
+  & .datosDerecha{
+      display: flex;
+      flex-direction: row;
+      text-align: center;
+      margin-top: -12px;
+      height: 100px;
+      & p{
+        font-size: 15px;
+        margin-top: -9px;
+      }
+      & .datoI{
+          width: 128px;
+          background-color: #C4E5F8;
+          color: #293D7F;
+      }
+      & .datoD{
+          width: 128px;
+          background-color:#64A3C6;
+          color: #FFFFFF;
+      }
+  }
+}
+.section-list{
+
+  display: flex;
+  justify-content: center;
+  margin-top: -10px;
+  height: 310px;
+  & .table-list{
+      margin-left: 10px;
+      width: 390px;
+      & thead {
+        color:#293D7F;
+      }
+  }
+  & .table-date{
+      margin-left: 10px;
+      width: 300px;
+      & thead {
+        color:#293D7F;
+      }
+  }
+
+}
+.section-button{
+  display: flex;
+  justify-content: flex-end;
+  margin-top: -25px;
+  & button{
+    background-color:#C4E5F8;
+    color: #293D7F;
+  }
+}

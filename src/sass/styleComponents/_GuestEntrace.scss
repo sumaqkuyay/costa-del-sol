@@ -1,0 +1,14 @@
+.search{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    display: flex;
+    justify-content: flex-end;
+}
+.table{
+    margin-left: 240px;
+    width: 1150px;
+    & td{
+       padding: 2px;
+    }
+}

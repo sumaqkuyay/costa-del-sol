@@ -2,17 +2,34 @@
     background: #293D7F;
     margin-top: 60px;
     margin-left: 208px;
+
+}
+.navbar-brand{
+    // background-color: red;
+    margin-left: 90px;
+    display: flex;
+    & a{
+      text-decoration: none;
+      color: white;
+    }
+}
+.containeroption{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    // align-items: center;
 }
 .ListGroup-Item{
     background: #F1F1F1;
     margin-bottom: 10px;
     margin-left: 220px;
+    display: flex;
+    justify-content:space-between;
+    
     width: 940px;
-}
-.img-logo{
-    width: 160px;
-    height: 130px;
-}
-.logo{
-    background: white;
+    & button {
+        background-color:#00803C;
+        text-transform: uppercase;
+
+    }
 }

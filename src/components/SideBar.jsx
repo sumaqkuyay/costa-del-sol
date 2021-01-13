@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import logo from '../images/logo-principal.png';
+import avatar from '../images/account_circle.png';
 
 
 const SideBar = () => {
@@ -33,33 +34,32 @@ const SideBar = () => {
           </div>
 
           <div className="header__img">
-              <img src="assets/img/perfil.jpg" alt="" />
+              <img src={avatar} alt="" />
           </div>
       </header>
       <div className={sidebar?"l-navbar show":"l-navbar"} id="nav-bar">
           <nav className="nav">
               <div>
                   <a href="/#" className="logo nav__logo">
-                  <img className="img-logo" src={logo} alt="Logo Costa del sol" />
+                    <img className="img-logo" src={logo} alt="Logo Costa del sol" />
                   </a>
 
                   <div className="nav__list">
                       <a href="/#" className="nav__link act">
-                      <i className='bx bxs-bar-chart-square nav__icon' ></i>
+                          <i className='bx bxs-bar-chart-square nav__icon' ></i>
                           <span className="nav__name">Mando Principal</span>
                       </a>
 
                       <div href="/#" className="nav__link active">
                           <i className='bx bxs-group nav__icon' ></i>
                           <span className="nav__name">Socios</span>
-                         
                           <i className="bx bxs-chevron-down active_link"></i>
                           
                           <ul className="active_menu">
-                            <a href="/#" className="active_sublink">Crear nuevo socio</a>
-                            <a href="/#" className="active_sublink">Ficha de socio</a>
-                            <Link to ="/partnerRequests" className="active_sublink">Solicitudes de socios</Link>
-                            <a href="/#" className="active_sublink">Stand By</a>
+                            <li className="active_item"><a href="/home" className="active_sublink">Crear nuevo socio</a></li>
+                            <li className="active_item"><Link to ="/partnerFile" className="active_sublink">Ficha de socio</Link></li>
+                            <li className="active_item"><Link to ="/partnerRequests" className="active_sublink">Solicitudes de socios</Link></li>
+                            <li className="active_item"><a href="/home" className="active_sublink">Stand By</a></li>
                           </ul>
                       </div>
                       

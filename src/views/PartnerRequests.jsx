@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { ListGroup , Button, Navbar, Container, NavbarBrand} from 'react-bootstrap';
+import { ListGroup , Button} from 'react-bootstrap';
 import SideBar from '../components/SideBar'
 
 const PartnerRequests = () =>{
@@ -15,27 +15,24 @@ const PartnerRequests = () =>{
   ]
   return(
     <>
-      <Navbar className="sub-nav" expand="lg" variant="light">
-        <Container>
-          <NavbarBrand className="materials-card-header-little-section">
-            <Link to="/materials">
-              <p>Socios</p>
-            </Link>
-            <a href="/#" className="nav__link act">
-              <i class='bx bxs-chevron-right'></i>
-              <span className="nav__name">Solicitud de Socios</span>
-            </a>
-          </NavbarBrand>
-        </Container>
-      </Navbar>
+      <div className="sub-navbar">
+        <Link to="/partners">
+            <i class='bx bxs-chevron-right'></i>
+            <span> Socios</span>
+          </Link>
+        <i class='bx bxs-chevron-right'></i>
+        <span>Solicitudes de Socios</span>
+      </div>
       <SideBar/>
-      <section className="container align-items-center ">
+      <section className="containeroption">
         <ListGroup >
           {
             listPartnersRequests.map((request)=>{
               return(
                 <ListGroup.Item className="ListGroup-Item">{request.name}
-                <Button variant="primary">{request.buton}</Button>
+                <Link to="/guestEntrance">
+                  <Button variant="primary">{request.buton}</Button>
+                </Link>
                 </ListGroup.Item>
               );
             })

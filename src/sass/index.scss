@@ -2,3 +2,15 @@
 @import "./styleComponents/Login";
 @import "./styleComponents/SideBar";
 @import "./styleComponents/PartnerRequests";
+@import "./styleComponents/GuestEntrace";
+@import "./styleComponents/GuestList";
+@import "./styleComponents/PartnerFile";
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap');
+
+:root{
+/*===== Font and typography =====*/
+--body-font: 'Roboto';
+--normal-font-size: 1rem;
+--small-font-size: .875rem;
+}
