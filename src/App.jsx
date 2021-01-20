@@ -8,6 +8,7 @@ import PartnerRequests from './views/PartnerRequests';
 import GuestEntrance from './views/GuestEntrance';
 import GuestList from './views/GuestList';
 import PartnerFile from './views/PartnerFile';
+import PartnerData from './views/PartnerData';
 import './sass/index.scss';
 
 
@@ -22,6 +23,7 @@ const App = () => (
         <Route path="/guestEntrance" exact component={GuestEntrance} />
         <Route path="/guestList" exact component={GuestList} />
         <Route path="/partnerFile" exact component={PartnerFile} />
+        <Route path="/partnerData" exact component={PartnerData} />
       </Switch>
     </HashRouter>
   </Router>

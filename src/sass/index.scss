@@ -1,10 +1,11 @@
 //Views:
-@import "./styleComponents/Login";
+@import "./styleViews/Login";
 @import "./styleComponents/SideBar";
-@import "./styleComponents/PartnerRequests";
-@import "./styleComponents/GuestEntrace";
-@import "./styleComponents/GuestList";
-@import "./styleComponents/PartnerFile";
+@import "./styleViews/PartnerRequests";
+@import "./styleViews/GuestEntrace";
+@import "./styleViews/GuestList";
+@import "./styleViews/PartnerFile";
+@import "./styleViews/PartnerData";
 
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap');
 
