@@ -984,7 +984,7 @@
         "Padres y suegros":[{}],
         "Fallecidos":[{}]
     },
-    {   "Fecha Modificación": "",
+    {   "Fecha Modificación": "11/10/20",
         "Nombres": "Alberto Martin ",
         "Apellidos": "Buonamici Saco",
         "Fecha de Nacimiento": "1/5/64",
@@ -1014,15 +1014,48 @@
           }
         ],
         "Hijos":[
-
+          {
+            "Nombres": "ALBERTO",
+            "Apellidos": "BUONAMICI RAYGADA",
+            "Fecha Nacimiento": "3/12/97",
+            "DNI": "74570211",
+            "Estado Civil": "SOLTERO"
+          },
+          {
+              "Nombres": "ALESSANDRO",
+              "Apellidos": "BUONAMICI RAYGADA",
+              "Fecha Nacimiento": "4/17/99",
+              "DNI": "75387948",
+              "Estado Civil": "SOLTERO"
+          }
         ],
-        "Familiares directos de los hijos":[
-
+        "Familiares directos de los hijos":[{}],
+        "Padres y suegros":[
+          {
+            "Nombres": "ALBERTO JOSE",
+            "Apellidos": "BUONAMICI SILVESTRI",
+            "Fecha Nacimiento": "3/7/36",
+            "DNI": "9391405",
+            "Parentesco": "PAPA"
+          },
+          {
+              "Nombres": "BLANCA MARIA DEL CARMEN",
+              "Apellidos": "SACO FARFAN",
+              "Fecha Nacimiento": "2/5/42",
+              "DNI": "8800817",
+              "Parentesco": "MAMA"
+          },
+          {
+              "Nombres": "LISETTE MARLENE",
+              "Apellidos": "FRANK MARQUEZ",
+              "Fecha Nacimiento": "9/7/41",
+              "DNI": "9157237",
+              "Parentesco": "MAMA"
+          }
         ],
-        "Padres y suegros":[{}],
         "Fallecidos":[{}]
     },
-    {   "Fecha Modificación": "",
+    {   "Fecha Modificación": "10/14/20",
         "Nombres": "Armando Luis Augusto",
         "Apellidos": "Cáceres Valderrama",
         "Fecha de Nacimiento": "10/19/56",
@@ -1052,15 +1085,48 @@
          }
         ],
         "Hijos":[
-
+          {
+            "Nombres": "Estella María",
+            "Apellidos": "Cáceres Cebrecos",
+            "Fecha Nacimiento": "9/11/91",
+            "DNI": "71504765",
+            "Estado Civil": "Soltera"
+          },
+          {
+              "Nombres": "Ana Lucía",
+              "Apellidos": "Cáceres Cebrecos",
+              "Fecha Nacimiento": "4/15/93",
+              "DNI": "71612498",
+              "Estado Civil": "Soltera"
+          }
         ],
-        "Familiares directos de los hijos":[
-
+        "Familiares directos de los hijos":[{}],
+        "Padres y suegros":[
+          {
+            "Nombres": "Milena",
+            "Apellidos": "Valderrama del Castillo de Cáceres",
+            "Fecha Nacimiento": "10/6/27",
+            "DNI": "08182724",
+            "Parentesco": "Madre"
+          },
+          {
+              "Nombres": "Isidoro",
+              "Apellidos": "Cebrecos Revilla",
+              "Fecha Nacimiento": "1/2/31",
+              "DNI": "000198598",
+              "Parentesco": "Suegro"
+          },
+          {
+              "Nombres": "Luisa",
+              "Apellidos": "González de Cebrecos",
+              "Fecha Nacimiento": "6/21/31",
+              "DNI": "000198326",
+              "Parentesco": "Suegra"
+          }
         ],
-        "Padres y suegros":[{}],
         "Fallecidos":[{}]
     },
-    {   "Fecha Modificación": "",
+    {   "Fecha Modificación": "10/22/20",
         "Nombres": "Carlos Emilio Pedro",
         "Apellidos": "Choy Koosau",
         "Fecha de Nacimiento": "2/18/61",
@@ -1089,15 +1155,70 @@
           }
         ],
         "Hijos":[
-
+          {
+            "Nombres": "Carlos Alberto",
+            "Apellidos": "Choy Pavez",
+            "Fecha Nacimiento": "2/25/85",
+            "DNI": "42940514",
+            "Estado Civil": "casado"
+          },
+          {
+            "Nombres": "Francisco Ignacio",
+            "Apellidos": "Choy Pavez",
+            "Fecha Nacimiento": "4/9/88",
+            "DNI": "45110136",
+            "Estado Civil": "soltero"
+          },
+          {
+            "Nombres": "Diego Ignacio",
+            "Apellidos": "Choy Pavez",
+            "Fecha Nacimiento": "9/3/97",
+            "DNI": "48140475",
+            "Estado Civil": "casado"
+          }
         ],
         "Familiares directos de los hijos":[
-
+          {
+            "Nombres": "Maria Alessandra Franchesa",
+            "Apellidos": "Farris de choy",
+            "Fecha Nacimiento": "2/19/92",
+            "DNI": "47448479",
+            "Parentesco": "esposa"
+          },
+          {
+            "Nombres": "Julia",
+            "Apellidos": "Anzer",
+            "Fecha Nacimiento": "4/9/95",
+            "DNI": "",
+            "Parentesco": "novia"
+          }
         ],
-        "Padres y suegros":[{}],
+        "Padres y suegros":[
+          {
+            "Nombres": "Elsa ",
+            "Apellidos": "koosau de Choy",
+            "Fecha Nacimiento": "4/17/37",
+            "DNI": "7273020",
+            "Parentesco": "madre"
+          },
+          {
+            "Nombres": "Francisco",
+            "Apellidos": "Sagasti Hoshauler",
+            "Fecha Nacimiento": "10/10/44",
+            "DNI": "7274281",
+            "Parentesco": "suegro"
+          },
+          {
+            "Nombres": "Leonor",
+            "Apellidos": "Giusti de Sagasti",
+            "Fecha Nacimiento": "9/6/39",
+            "DNI": "7272569",
+            "Parentesco": "suegra"
+          }
+        ],
         "Fallecidos":[{}]
     },
-    {   "Fecha Modificación": "",
+    {   "Fecha Modificación": "10/11/20",
         "Nombres": "Manuel Ivan",
         "Apellidos": "Davila Burgos",
         "Fecha de Nacimiento": "6/1/49",
@@ -1127,15 +1248,62 @@
           }
         ],
         "Hijos":[
-
+          {
+            "Nombres": "Daniela",
+            "Apellidos": "Davila Salazar",
+            "Fecha Nacimiento": "12/27/79",
+            "DNI": "40450321",
+            "Estado Civil": "Soltera"
+          },
+          {
+              "Nombres": "Diego",
+              "Apellidos": "Davila Salazar",
+              "Fecha Nacimiento": "4/16/84",
+              "DNI": "42379330",
+              "Estado Civil": "Soltero"
+          },
+          {
+              "Nombres": "María Belén",
+              "Apellidos": "Davila Salazar",
+              "Fecha Nacimiento": "2/21/89",
+              "DNI": "70451308",
+              "Estado Civil": "Soltera"
+          }
         ],
         "Familiares directos de los hijos":[
-
+          {
+            "Nombres": "Nicolas",
+            "Apellidos": "Lancho Dávila",
+            "Fecha Nacimiento": "9/29/00",
+            "DNI": "77207893",
+            "Parentesco": "HIJO DE DANIELA"
+          },
+          {
+              "Nombres": "Matteo",
+              "Apellidos": "Lancho Dávila",
+              "Fecha Nacimiento": "12/20/06",
+              "DNI": "70593440",
+              "Parentesco": "HIJO DE DANIELA"
+          },
+          {
+              "Nombres": "Luciana",
+              "Apellidos": "Gamio Puente",
+              "Fecha Nacimiento": "12/27/86",
+              "DNI": "44079462",
+              "Parentesco": "NOVIA DE DIEGO"
+          },
+          {
+              "Nombres": "Mifleh",
+              "Apellidos": "Ahmad El Amer",
+              "Fecha Nacimiento": "2/6/85",
+              "DNI": "42808844",
+              "Parentesco": "NOVIO DE MARÍA BELÉN"
+          }
         ],
         "Padres y suegros":[{}],
         "Fallecidos":[{}]
     },
-    {   "Fecha Modificación": "",
+    {   "Fecha Modificación": "10/11/20",
         "Nombres": "Julio Jacobo Jose",
         "Apellidos": "De La Piedra Del Rio",
         "Fecha de Nacimiento": "12/13/53",
@@ -1165,15 +1333,55 @@
           }
         ],
         "Hijos":[
-
+          {
+            "Nombres": "Julio Manuel",
+            "Apellidos": "de la Piedra Quelle",
+            "Fecha Nacimiento": "8/19/80",
+            "DNI": "40536489",
+            "Estado Civil": "Casado"
+          },
+          {
+              "Nombres": "Mariola del socorro",
+              "Apellidos": "de la Piedra Quelle",
+              "Fecha Nacimiento": "4/24/83",
+              "DNI": "41771323",
+              "Estado Civil": "Conviviente"
+          }
         ],
         "Familiares directos de los hijos":[
-
+          {
+            "Nombres": "Camila ",
+            "Apellidos": "Ferreyra Rodriguez Larrain",
+            "Fecha Nacimiento": " ",
+            "DNI": " ",
+            "Parentesco": "Nuera"
+          },
+          {
+              "Nombres": "Camilo",
+              "Apellidos": "Huertas Umaña",
+              "Fecha Nacimiento": " ",
+              "DNI": " ",
+              "Parentesco": "Yerno"
+          },
+          {
+              "Nombres": "Julio",
+              "Apellidos": "de la Piedra Ferreyra",
+              "Fecha Nacimiento": " ",
+              "DNI": " ",
+              "Parentesco": "Nieto"
+          },
+          {
+              "Nombres": "Martin",
+              "Apellidos": "de la Piedra Ferreyra",
+              "Fecha Nacimiento": " ",
+              "DNI": " ",
+              "Parentesco": "Nieto"
+          }
         ],
         "Padres y suegros":[{}],
         "Fallecidos":[{}]
     },
-    {   "Fecha Modificación": "",
+    {   "Fecha Modificación": "10/21/20",
         "Nombres": "Rosina Lyliana",
         "Apellidos": "De Vettori Rojas De Ongaro",
         "Fecha de Nacimiento": "9/17/62",
@@ -1203,15 +1411,26 @@
           }
         ],
         "Hijos":[
-
+          {
+            "Nombres": "María Lyliana",
+            "Apellidos": "Ongaro De Vettori",
+            "Fecha Nacimiento": "5/4/96",
+            "DNI": "74149188",
+            "Estado Civil": "Solera"
+          },
+          {
+              "Nombres": "Angello Ongaro",
+              "Apellidos": "Ongaro De Vettori",
+              "Fecha Nacimiento": "11/9/97",
+              "DNI": "74149191",
+              "Estado Civil": "Soltero"
+          }
         ],
-        "Familiares directos de los hijos":[
-
-        ],
+        "Familiares directos de los hijos":[{}],
         "Padres y suegros":[{}],
         "Fallecidos":[{}]
     },
-    {   "Fecha Modificación": "",
+    {   "Fecha Modificación": "10/9/20",
         "Nombres": "Romulo Vicente",
         "Apellidos": "Del Carpio Castañeda",
         "Fecha de Nacimiento": "4/19/47",
@@ -1241,15 +1460,90 @@
           }
         ],
         "Hijos":[
-
+          {
+            "Nombres": "CLAUDIA",
+            "Apellidos": "DEL CARPIO GASTELU",
+            "Fecha Nacimiento": "7/19/79",
+            "DNI": "40221545",
+            "Estado Civil": "CASADA"
+          },
+          {
+              "Nombres": "MARIELA",
+              "Apellidos": "DEL CARPIO GASTELU",
+              "Fecha Nacimiento": "10/17/82",
+              "DNI": "41510314",
+              "Estado Civil": "CASADA"
+          },
+          {
+              "Nombres": "JUAN DANIEL",
+              "Apellidos": "DEL CARPIO GASTELU",
+              "Fecha Nacimiento": "4/4/86",
+              "DNI": "43542467",
+              "Estado Civil": "CASADO"
+          }
         ],
         "Familiares directos de los hijos":[
-
+          {
+            "Nombres": "ITALO",
+            "Apellidos": "ZOLEZZI VELASCO",
+            "Fecha Nacimiento": "11/16/73",
+            "DNI": "06469579",
+            "Parentesco": "ESPOSO"
+          },
+          {
+              "Nombres": "DIEGO ",
+              "Apellidos": "VERA TUDELA QUINCOT",
+              "Fecha Nacimiento": "1/27/89",
+              "DNI": "43653925",
+              "Parentesco": "ESPOSO"
+          },
+          {
+              "Nombres": "MARIA CLAUDIA",
+              "Apellidos": "GAGO CARRILLO",
+              "Fecha Nacimiento": "4/19/87",
+              "DNI": "44211016",
+              "Parentesco": "ESPOSA"
+          },
+          {
+              "Nombres": "ADRIANO",
+              "Apellidos": "ZOLEZZI DEL CARPIO",
+              "Fecha Nacimiento": "3/10/10",
+              "DNI": "74108225",
+              "Parentesco": "HIJO"
+          },
+          {
+              "Nombres": "ALESSANDRO",
+              "Apellidos": "ZOLEZZI DEL CARPIO",
+              "Fecha Nacimiento": "3/7/12",
+              "DNI": "77609003",
+              "Parentesco": "HIJO"
+          },
+          {
+              "Nombres": "CRISTOBAL",
+              "Apellidos": "VERA TUDELA DEL CARPIO",
+              "Fecha Nacimiento": "10/8/15",
+              "DNI": "79330642",
+              "Parentesco": "HIJO"
+          },
+          {
+              "Nombres": "SALVADOR",
+              "Apellidos": "VERA TUDELA DEL CARPIO",
+              "Fecha Nacimiento": "12/6/18",
+              "DNI": "91086205",
+              "Parentesco": "HIJO"
+          },
+          {
+              "Nombres": "LEONOR",
+              "Apellidos": "DEL CARPIO GAGO",
+              "Fecha Nacimiento": "6/21/20",
+              "DNI": " ",
+              "Parentesco": "HIJA"
+          }
         ],
         "Padres y suegros":[{}],
         "Fallecidos":[{}]
     },
-    {   "Fecha Modificación": "",
+    {   "Fecha Modificación": "10/11/20",
         "Nombres": "Jean Paul ",
         "Apellidos": "Donoyan Almandoz",
         "Fecha de Nacimiento": "12/19/64",
@@ -1279,15 +1573,34 @@
           }
         ],
         "Hijos":[
-
+          {
+            "Nombres": "Vanessa Susana",
+            "Apellidos": "Donoyan Brandán",
+            "Fecha Nacimiento": "6/12/93",
+            "DNI": "71407587",
+            "Estado Civil": "Soltera"
+          },
+          {
+              "Nombres": "André Daniel",
+              "Apellidos": "Donoyan Brandán",
+              "Fecha Nacimiento": "3/30/95",
+              "DNI": "71407562",
+              "Estado Civil": "Soltero"
+          }
         ],
-        "Familiares directos de los hijos":[
-
+        "Familiares directos de los hijos":[{}],
+        "Padres y suegros":[
+          {
+            "Nombres": "Alicia Inés",
+            "Apellidos": "Almandoz Toro Vda de Donoyan",
+            "Fecha Nacimiento": "3/15/32",
+            "DNI": "10283755",
+            "Parentesco": "Madre"
+          }
         ],
-        "Padres y suegros":[{}],
         "Fallecidos":[{}]
     },
-    {   "Fecha Modificación": "",
+    {   "Fecha Modificación": "10/23/20",
         "Nombres": "Gonzalo Fernando ",
         "Apellidos": "Door Cabezas",
         "Fecha de Nacimiento": "4/24/56",
@@ -1317,15 +1630,77 @@
           }
         ],
         "Hijos":[
-
+          {
+            "Nombres": "Denise Rosa",
+            "Apellidos": "Door Icochea",
+            "Fecha Nacimiento": "3/17/81",
+            "DNI": "40871384",
+            "Estado Civil": "Casada"
+          },
+          {
+              "Nombres": "Alexandra",
+              "Apellidos": "Door Icochea",
+              "Fecha Nacimiento": "10/22/83",
+              "DNI": "42065441",
+              "Estado Civil": "Casada"
+          },
+          {
+              "Nombres": "Michelle",
+              "Apellidos": "Door Icochea",
+              "Fecha Nacimiento": "6/12/95",
+              "DNI": "74762791",
+              "Estado Civil": "Soltera"
+          }
         ],
         "Familiares directos de los hijos":[
-
+          {
+            "Nombres": "Fabio",
+            "Apellidos": "Zveibil ",
+            "Fecha Nacimiento": "9/12/82",
+            "DNI": " ",
+            "Parentesco": "Yerno"
+          },
+          {
+              "Nombres": "Luca",
+              "Apellidos": "Zveibil Door",
+              "Fecha Nacimiento": "5/19/14",
+              "DNI": " ",
+              "Parentesco": "Nieto"
+          },
+          {
+              "Nombres": "Daniel",
+              "Apellidos": "Zveibil Door",
+              "Fecha Nacimiento": "10/18/16",
+              "DNI": " ",
+              "Parentesco": "Nieto"
+          },
+          {
+              "Nombres": "Ken",
+              "Apellidos": "Fairleigh",
+              "Fecha Nacimiento": "8/12/88",
+              "DNI": " ",
+              "Parentesco": "Yerno"
+          },
+          {
+              "Nombres": "Ken Door",
+              "Apellidos": "Fairleigh",
+              "Fecha Nacimiento": "8/16/19",
+              "DNI": " ",
+              "Parentesco": "Nieto"
+          }
         ],
-        "Padres y suegros":[{}],
+        "Padres y suegros":[
+          {
+            "Nombres": "Micaela",
+            "Apellidos": "de Door",
+            "Fecha Nacimiento": " ",
+            "DNI": " ",
+            "Parentesco": "Madre"
+          }
+        ],
         "Fallecidos":[{}]
     },
-    {   "Fecha Modificación": "",
+    {   "Fecha Modificación": "10/22/20",
         "Nombres": "Rafael Juan ",
         "Apellidos": "Escardo Cuglievan",
         "Fecha de Nacimiento": "5/18/64",
@@ -1355,15 +1730,46 @@
           }
         ],
         "Hijos":[
-
+          {
+            "Nombres": "RAFAEL",
+            "Apellidos": "ESCARDO ESPEJO",
+            "Fecha Nacimiento": "3/1/91",
+            "DNI": "70233208",
+            "Estado Civil": "SOLTERO"
+          },
+          {
+              "Nombres": "ADRIAN NICOLAS ",
+              "Apellidos": "ESCARDO ESPEJO",
+              "Fecha Nacimiento": "9/17/98",
+              "DNI": "70233209",
+              "Estado Civil": "SOLTERO"
+          },
+          {
+              "Nombres": "MAURICIO",
+              "Apellidos": "ESCARDO ESPEJO",
+              "Fecha Nacimiento": "4/27/95",
+              "DNI": "70233210",
+              "Estado Civil": "SOLTERO"
+          }
         ],
-        "Familiares directos de los hijos":[
-
+        "Familiares directos de los hijos":[{}],
+        "Padres y suegros":[
+          {
+            "Nombres": "TERESA",
+            "Apellidos": "CUGLIEVAN TRINT",
+            "DNI": "09337593",
+            "Parentesco": "MADRE"
+          },
+          {
+              "Nombres": "MARIA ALBINA",
+              "Apellidos": "OTERO RAMOS",
+              "DNI": "06447121",
+              "Parentesco": "SUEGRA"
+          }
         ],
-        "Padres y suegros":[{}],
         "Fallecidos":[{}]
     },
-    {   "Fecha Modificación": "",
+    {   "Fecha Modificación": "11/15/20",
         "Nombres": "José Javier",
         "Apellidos": "Filomeno Edwards",
         "Fecha de Nacimiento": "12/9/46",
@@ -1393,15 +1799,97 @@
           }
         ],
         "Hijos":[
-
+          {
+            "Nombres": "JAVIER ENRIQUE",
+            "Apellidos": "FILOMENO TEJEDA",
+            "Fecha Nacimiento": "9/5/75",
+            "DNI": " ",
+            "Estado Civil": "CASADO"
+          },
+          {
+              "Nombres": "CARLA TATIANA",
+              "Apellidos": "FILOMENO TEJEDA",
+              "Fecha Nacimiento": "6/29/80",
+              "DNI": " ",
+              "Estado Civil": "SOLTERA"
+          },
+          {
+              "Nombres": "ANDREA",
+              "Apellidos": "FILOMENO TEJEDA",
+              "Fecha Nacimiento": "12/11/81",
+              "DNI": " ",
+              "Estado Civil": "CASADA"
+          },
+          {
+              "Nombres": "ANDREA",
+              "Apellidos": "PALMA PASTOR",
+              "Fecha Nacimiento": "11/15/77",
+              "DNI": " ",
+              "Estado Civil": "CASADA"
+          },
+          {
+              "Nombres": "DANIELA",
+              "Apellidos": "PALMA PASTOR",
+              "Fecha Nacimiento": "8/23/81",
+              "DNI": " ",
+              "Estado Civil": "CASADA"
+          }
         ],
         "Familiares directos de los hijos":[
-
+          {
+            "Nombres": "MATÍAS",
+            "Apellidos": "FILOMENO GARCÍA",
+            "Fecha Nacimiento": "7/23/11",
+            "DNI": " ",
+            "Parentesco": "NIETO"
+          },
+          {
+              "Nombres": "VALENTINA",
+              "Apellidos": "CAMACHO FILOMENO",
+              "Fecha Nacimiento": "7/12/12",
+              "DNI": " ",
+              "Parentesco": "NIETA"
+          },
+          {
+              "Nombres": "JULIETA",
+              "Apellidos": "CAMACHO FILOMENO",
+              "Fecha Nacimiento": "6/26/14",
+              "DNI": " ",
+              "Parentesco": "NIETA"
+          },
+          {
+              "Nombres": "JAKOV",
+              "Apellidos": "BOZANIC PALMA",
+              "Fecha Nacimiento": "8/20/13",
+              "DNI": " ",
+              "Parentesco": "NIETO"
+          },
+          {
+              "Nombres": "LUKA",
+              "Apellidos": "BOZANIC PALMA",
+              "Fecha Nacimiento": "4/11/16",
+              "DNI": " ",
+              "Parentesco": "NIETO"
+          },
+          {
+              "Nombres": "ALEIX",
+              "Apellidos": "SCHONHOFER PALMA",
+              "Fecha Nacimiento": "1/17/10",
+              "DNI": " ",
+              "Parentesco": "NIETO"
+          },
+          {
+              "Nombres": "LAIA",
+              "Apellidos": "SCHONHOFER PALMA",
+              "Fecha Nacimiento": "3/1/13",
+              "DNI": " ",
+              "Parentesco": "NIETA"
+          }
         ],
         "Padres y suegros":[{}],
         "Fallecidos":[{}]
     },
-    {   "Fecha Modificación": "",
+    {   "Fecha Modificación": "10/22/20",
         "Nombres": "Erick Walter Jose",
         "Apellidos": "Funcke Figueroa",
         "Fecha de Nacimiento": "7/26/54",
@@ -1431,15 +1919,97 @@
           }
         ],
         "Hijos":[
-
+          {
+            "Nombres": "Erick",
+            "Apellidos": "Funcke Castro",
+            "Fecha Nacimiento": "12/6/78",
+            "DNI": "40022159",
+            "Estado Civil": "Casado"
+          },
+          {
+              "Nombres": "Dieter",
+              "Apellidos": "Funcke Castro",
+              "Fecha Nacimiento": "2/8/80",
+              "DNI": "40473263",
+              "Estado Civil": "Casado"
+          },
+          {
+              "Nombres": "Liesel",
+              "Apellidos": "Funcke Castro",
+              "Fecha Nacimiento": "3/18/87",
+              "DNI": "44130153",
+              "Estado Civil": "Casado"
+          }
         ],
         "Familiares directos de los hijos":[
-
+          {
+            "Nombres": "Nicholas Wilhelm",
+            "Apellidos": "Funcke Sotomayor",
+            "Fecha Nacimiento": "11/2/05",
+            "DNI": " ",
+            "Parentesco": "Nieto"
+          },
+          {
+              "Nombres": "Mathias",
+              "Apellidos": "Funcke Bueno",
+              "Fecha Nacimiento": "5/5/08",
+              "DNI": "71364079",
+              "Parentesco": "Nieto"
+          },
+          {
+              "Nombres": "Sebastian",
+              "Apellidos": "Funcke Sotomayor",
+              "Fecha Nacimiento": "9/4/09",
+              "DNI": " ",
+              "Parentesco": "Nieto"
+          },
+          {
+              "Nombres": "Camille",
+              "Apellidos": "Funcke Bueno",
+              "Fecha Nacimiento": "4/7/12",
+              "DNI": "77632645",
+              "Parentesco": "Nieta"
+          },
+          {
+              "Nombres": "Fernanda",
+              "Apellidos": "Zapater Funcke",
+              "Fecha Nacimiento": "2/3/17",
+              "DNI": " ",
+              "Parentesco": "Nieta"
+          },
+          {
+              "Nombres": "Michaela",
+              "Apellidos": "Zapater Funcke",
+              "Fecha Nacimiento": "9/26/19",
+              "DNI": " ",
+              "Parentesco": "Nieta"
+          },
+          {
+              "Nombres": "Jennifer Milagros",
+              "Apellidos": "Sotomayor de Funcke",
+              "Fecha Nacimiento": "10/1/79",
+              "DNI": "40399584",
+              "Parentesco": "Nuera"
+          },
+          {
+              "Nombres": "Romina ",
+              "Apellidos": "Bueno de Funcke",
+              "Fecha Nacimiento": "6/16/80",
+              "DNI": "40634117",
+              "Parentesco": "Nuera"
+          },
+          {
+              "Nombres": "Jorge Marcelo",
+              "Apellidos": "Zapater Pereyra",
+              "Fecha Nacimiento": "7/11/86",
+              "DNI": "43683518",
+              "Parentesco": "Yerno"
+          }
         ],
         "Padres y suegros":[{}],
         "Fallecidos":[{}]
     },
-    {   "Fecha Modificación": "",
+    {   "Fecha Modificación": "10/17/20",
         "Nombres": "Hector Raúl",
         "Apellidos": "García Bejar",
         "Fecha de Nacimiento": "6/25/45",
@@ -1468,15 +2038,41 @@
           }
         ],
         "Hijos":[
-
+          {
+            "Nombres": "Gabriela Maria",
+            "Apellidos": "García Ugaz",
+            "Fecha Nacimiento": "9/28/85",
+            "DNI": "43224641",
+            "Estado Civil": "soltera"
+          },
+          {
+              "Nombres": "Carolina",
+              "Apellidos": "García Ugaz",
+              "Fecha Nacimiento": "6/6/87",
+              "DNI": "44347309",
+              "Estado Civil": "soltera"
+          },
+          {
+              "Nombres": "Beatriz",
+              "Apellidos": "García Ugaz",
+              "Fecha Nacimiento": "12/15/93",
+              "DNI": "47483792",
+              "Estado Civil": "soltera"
+          }
         ],
-        "Familiares directos de los hijos":[
-
+        "Familiares directos de los hijos":[{}],
+        "Padres y suegros":[
+          {
+            "Nombres": "Luisa Mercedes",
+            "Apellidos": "Sanchez Moreno Ramos",
+            "Fecha Nacimiento": "10/5/35",
+            "DNI": "07819275",
+            "Parentesco": "madre"
+          }
         ],
-        "Padres y suegros":[{}],
         "Fallecidos":[{}]
     },
-    {   "Fecha Modificación": "",
+    {   "Fecha Modificación": "10/11/20",
         "Nombres": "Maria Elizabeth ",
         "Apellidos": "Gastelu Del Aguila ",
         "Fecha de Nacimiento": "9/12/62",
@@ -1494,15 +2090,56 @@
         "Distrito": "La Molina ",
         "Conyuge":[{}],
         "Hijos":[
-
+          {
+            "Nombres": "Andrea ",
+            "Apellidos": "Lechuga Gastelu ",
+            "Fecha Nacimiento": "10/18/86",
+            "DNI": "43820177",
+            "Estado Civil": "Casada "
+          },
+          {
+              "Nombres": "Daniela ",
+              "Apellidos": "Lechuga Gastelu ",
+              "Fecha Nacimiento": "2/18/90",
+              "DNI": "46172457",
+              "Estado Civil": "Soltera "
+          }
         ],
         "Familiares directos de los hijos":[
-
+          {
+            "Nombres": "Andres  ",
+            "Apellidos": "De Leon Mendez",
+            "Fecha Nacimiento": "1/3/86",
+            "DNI": "48969364",
+            "Parentesco": "Yerno"
+          },
+          {
+              "Nombres": "Rafaela ",
+              "Apellidos": "De Leon Lechuga ",
+              "Fecha Nacimiento": "3/31/15",
+              "DNI": "79083854",
+              "Parentesco": "Nieta "
+          }
         ],
-        "Padres y suegros":[{}],
+        "Padres y suegros":[
+          {
+            "Nombres": "Victor Raul ",
+            "Apellidos": "Gastelu Wesche",
+            "Fecha Nacimiento": "8/18/30",
+            "DNI": "10062559",
+            "Parentesco": "padre "
+          },
+          {
+              "Nombres": "Betty ",
+              "Apellidos": "Del Aguila Hoyos ",
+              "Fecha Nacimiento": "12/9/32",
+              "DNI": "10060744",
+              "Parentesco": "madre"
+          }
+        ],
         "Fallecidos":[{}]
     },
-    {   "Fecha Modificación": "",
+    {   "Fecha Modificación": "10/20/20",
         "Nombres": "Agustin",
         "Apellidos": "Guevara Ballon",
         "Fecha de Nacimiento": "6/12/62",
@@ -1532,15 +2169,41 @@
           }
         ],
         "Hijos":[
-
+          {
+            "Nombres": "AGUSTIN",
+            "Apellidos": "GUEVARA COGORNO",
+            "Fecha Nacimiento": "8/11/94",
+            "DNI": "74648178",
+            "Estado Civil": "SOLTERO"
+          },
+          {
+              "Nombres": "VALERIA ",
+              "Apellidos": "GUEVARA COGORNO",
+              "Fecha Nacimiento": "8/11/97",
+              "DNI": "74648174",
+              "Estado Civil": "SOLTERO"
+          },
+          {
+              "Nombres": "TIZIANA",
+              "Apellidos": "GUEVARA COGORNO",
+              "Fecha Nacimiento": "4/21/99",
+              "DNI": "74648174",
+              "Estado Civil": "SOLTERO"
+          }
         ],
-        "Familiares directos de los hijos":[
-
+        "Familiares directos de los hijos":[{}],
+        "Padres y suegros":[
+          {
+            "Nombres": "ROSINA",
+            "Apellidos": "PELOSI BERGNA",
+            "Fecha Nacimiento": "7/2/47",
+            "DNI": "08253196",
+            "Parentesco": "SUEGRA"
+          }
         ],
-        "Padres y suegros":[{}],
         "Fallecidos":[{}]
     },
-    {   "Fecha Modificación": "",
+    {   "Fecha Modificación": "10/21/20",
         "Nombres": "Wilfred Alan",
         "Apellidos": "Gutiérrez Ampudia",
         "Fecha de Nacimiento": "7/10/61",
@@ -1570,15 +2233,55 @@
           }
         ],
         "Hijos":[
-
+          {
+            "Nombres": "José Miguel",
+            "Apellidos": "Gutiérrez Paz",
+            "Fecha Nacimiento": "2/7/86",
+            "DNI": "43464925",
+            "Estado Civil": "Soltero"
+          },
+          {
+              "Nombres": "Romina Alejandra",
+              "Apellidos": "Gutiérrez Paz",
+              "Fecha Nacimiento": "6/28/87",
+              "DNI": "44479271",
+              "Estado Civil": "Soltera"
+          },
+          {
+              "Nombres": "Wilfred",
+              "Apellidos": "Gutiérrez Paz",
+              "Fecha Nacimiento": "2/24/94",
+              "DNI": "74689420",
+              "Estado Civil": "Soltero"
+          }
         ],
-        "Familiares directos de los hijos":[
-
+        "Familiares directos de los hijos":[{}],
+        "Padres y suegros":[
+          {
+            "Nombres": "Abraham Edilberto",
+            "Apellidos": "Gutiérrez y Villasante",
+            "Fecha Nacimiento": "3/15/35",
+            "DNI": "29501727",
+            "Parentesco": "Padre"
+          },
+          {
+              "Nombres": "Luzmila",
+              "Apellidos": "Ampudia de Gutiérrez",
+              "Fecha Nacimiento": "11/14/36",
+              "DNI": "29496486",
+              "Parentesco": "Madre"
+          },
+          {
+              "Nombres": "Carmen",
+              "Apellidos": "Revoredo",
+              "Fecha Nacimiento": " ",
+              "DNI": " ",
+              "Parentesco": "Suegra"
+          }
         ],
-        "Padres y suegros":[{}],
         "Fallecidos":[{}]
     },
-    {   "Fecha Modificación": "",
+    {   "Fecha Modificación": "10/21/20",
         "Nombres": "Marco Antonio",
         "Apellidos": "Herrera Ramírez",
         "Fecha de Nacimiento": "9/28/55",
@@ -1608,15 +2311,69 @@
           }
         ],
         "Hijos":[
-
+          {
+            "Nombres": "Brenda Luciana",
+            "Apellidos": "Herrera Curto",
+            "Fecha Nacimiento": "6/7/82",
+            "DNI": "41286272",
+            "Estado Civil": "Casada"
+          },
+          {
+              "Nombres": "Vanesa",
+              "Apellidos": "Herrera Curto",
+              "Fecha Nacimiento": "4/13/85",
+              "DNI": "42909177",
+              "Estado Civil": "Casada"
+          }
         ],
         "Familiares directos de los hijos":[
-
+          {
+            "Nombres": "Gonzalo Alejandro",
+            "Apellidos": "Palma Quilodrán",
+            "Fecha Nacimiento": "1/9/78",
+            "DNI": "Extranjero",
+            "Parentesco": "Esposo"
+          },
+          {
+              "Nombres": "Adriana Sofía",
+              "Apellidos": "Palma Herrera",
+              "Fecha Nacimiento": "6/16/15",
+              "DNI": "Extranjera",
+              "Parentesco": "Hija"
+          },
+          {
+              "Nombres": "Emilio Alejandro",
+              "Apellidos": "Palma Herrera ",
+              "Fecha Nacimiento": "11/10/17",
+              "DNI": "Extranjero",
+              "Parentesco": "Hijo"
+          },
+          {
+              "Nombres": "Kirk",
+              "Apellidos": "Lambert Sauey",
+              "Fecha Nacimiento": "2/13/78",
+              "DNI": "Extranjero",
+              "Parentesco": "Esposo"
+          },
+          {
+              "Nombres": "Sebastian Marc James",
+              "Apellidos": "Lambert Herrera",
+              "Fecha Nacimiento": "4/20/16",
+              "DNI": "Extranjero",
+              "Parentesco": "Hijo"
+          },
+          {
+              "Nombres": "Juliette Antonia",
+              "Apellidos": "Lambert Herrera",
+              "Fecha Nacimiento": "7/31/18",
+              "DNI": "Extranjera",
+              "Parentesco": "Hija"
+          }
         ],
         "Padres y suegros":[{}],
         "Fallecidos":[{}]
     },
-    {   "Fecha Modificación": "",
+    {   "Fecha Modificación": "1/11/20",
         "Nombres": "Alicia Isabel",
         "Apellidos": "Huertas Del Pino Utrilla",
         "Fecha de Nacimiento": "11/19/47",
@@ -1634,15 +2391,48 @@
         "Distrito": "Surco",
         "Conyuge":[{}],
         "Hijos":[
-
+          {
+            "Nombres": "Pia",
+            "Apellidos": "Espinel Huertas del Pino",
+            "Fecha Nacimiento": "5/20/84",
+            "DNI": "42439209",
+            "Estado Civil": "Soltera"
+          }
         ],
         "Familiares directos de los hijos":[
-
+          {
+            "Nombres": "Diego",
+            "Apellidos": "Huertas del Pino Cavero",
+            "Fecha Nacimiento": "13/8/1982",
+            "DNI": "41444339",
+            "Parentesco": ""
+          },
+          {
+              "Nombres": "Cecilia",
+              "Apellidos": "Avanzini Pinto",
+              "Fecha Nacimiento": "17/6/1946",
+              "DNI": "10342681",
+              "Parentesco": ""
+          },
+          {
+              "Nombres": "Laura Karina",
+              "Apellidos": "Henriquez Lorca",
+              "Fecha Nacimiento": "29/6/1983",
+              "DNI": "CE: 002009334",
+              "Parentesco": ""
+          },
+          {
+              "Nombres": "Raúl Rodrigo",
+              "Apellidos": "Pasco Alfaro",
+              "Fecha Nacimiento": "21/11/1987",
+              "DNI": "44651844",
+              "Parentesco": ""
+          }
         ],
         "Padres y suegros":[{}],
         "Fallecidos":[{}]
     },
-    {   "Fecha Modificación": "",
+    {   "Fecha Modificación": "10/23/20",
         "Nombres": "Fernando",
         "Apellidos": "Ikeda Matsukawa",
         "Fecha de Nacimiento": "6/7/48",
@@ -1672,12 +2462,123 @@
           }
         ],
         "Hijos":[
-
+          {
+            "Nombres": "Rosario Angélica",
+            "Apellidos": "Ikeda Arismendi",
+            "Fecha Nacimiento": "9/3/70",
+            "DNI": "09388694",
+            "Estado Civil": "Casada"
+          },
+          {
+              "Nombres": "Rosa Mirian",
+              "Apellidos": "Ikeda Arismendi",
+              "Fecha Nacimiento": "5/4/72",
+              "DNI": "09866933",
+              "Estado Civil": "Casada"
+          },
+          {
+              "Nombres": "Carlos Fernando",
+              "Apellidos": "Ikeda Arismendi",
+              "Fecha Nacimiento": "9/18/75",
+              "DNI": "10316890",
+              "Estado Civil": "Casado"
+          },
+          {
+              "Nombres": "Susana Lucía",
+              "Apellidos": "Ikeda Arismendi",
+              "Fecha Nacimiento": "7/20/82",
+              "DNI": "41360188",
+              "Estado Civil": "Casada"
+          }
         ],
         "Familiares directos de los hijos":[
-
+          {
+            "Nombres": "Diego Antonio",
+            "Apellidos": "Vásquez de Velasco Jiménez",
+            "Fecha Nacimiento": "11/6/68",
+            "DNI": "08274577",
+            "Parentesco": "Cónyuge (Rosario)"
+          },
+          {
+              "Nombres": "José Mauricio",
+              "Apellidos": "Béjar Martínez",
+              "Fecha Nacimiento": "5/6/67",
+              "DNI": "07745132",
+              "Parentesco": "Cónyuge (Mirian)"
+          },
+          {
+              "Nombres": "Kiara",
+              "Apellidos": "Béjar Ikeda",
+              "Fecha Nacimiento": "4/28/03",
+              "DNI": "76354118",
+              "Parentesco": "Hija (Mirian)"
+          },
+          {
+              "Nombres": "Tamara",
+              "Apellidos": "Béjar Ikeda",
+              "Fecha Nacimiento": "3/9/05",
+              "DNI": "76367847",
+              "Parentesco": "Hija (Mirian)"
+          },
+          {
+              "Nombres": "Cynthia Paola",
+              "Apellidos": "Quiñones Berrospi",
+              "Fecha Nacimiento": "4/23/74",
+              "DNI": "09855514",
+              "Parentesco": "Cónyuge (Carlos)"
+          },
+          {
+              "Nombres": "Paola Alessandra",
+              "Apellidos": "Ikeda Quiñones",
+              "Fecha Nacimiento": "1/25/00",
+              "DNI": "73421100",
+              "Parentesco": "Hija (Carlos)"
+          },
+          {
+              "Nombres": "Melissa Lucía",
+              "Apellidos": "Ikeda Quiñones",
+              "Fecha Nacimiento": "6/9/04",
+              "DNI": "73421103",
+              "Parentesco": "Hija (Carlos)"
+          },
+          {
+              "Nombres": "Rodrigo Alonso",
+              "Apellidos": "Ikeda Quiñones",
+              "Fecha Nacimiento": "6/25/07",
+              "DNI": "70710060",
+              "Parentesco": "Hijo (Carlos)"
+          },
+          {
+              "Nombres": "Miguel Alejandro",
+              "Apellidos": "Velasco Cook",
+              "Fecha Nacimiento": "6/7/83",
+              "DNI": "41655769",
+              "Parentesco": "Cónyuge (Susana)"
+          },
+          {
+              "Nombres": "Jose Miguel",
+              "Apellidos": "Velasco Ikeda",
+              "Fecha Nacimiento": "1/18/16",
+              "DNI": "79521677",
+              "Parentesco": "Hijo (Susana)"
+          },
+          {
+              "Nombres": "Alesssandra",
+              "Apellidos": "Velasco Ikeda",
+              "Fecha Nacimiento": "8/3/17",
+              "DNI": "90404825",
+              "Parentesco": "Hija (Susana)"
+          }
         ],
-        "Padres y suegros":[{}],
+        "Padres y suegros":[
+          {
+            "Nombres": "Consuelo",
+            "Apellidos": "Berrospi Velásquez",
+            "Fecha Nacimiento": "4/18/48",
+            "DNI": "06068170",
+            "Parentesco": "Suegra (Carlos)"
+          }
+        ],
         "Fallecidos":[{}]
     },
     {   "Fecha Modificación": "",
@@ -1710,10 +2611,71 @@
           }
         ],
         "Hijos":[
-
+          {
+            "Nombres": "WENDY ISABEL",
+            "Apellidos": "KOC FONG LI",
+            "Fecha Nacimiento": "3/1/83",
+            "DNI": "71820224",
+            "Estado Civil": "CASADA"
+          },
+          {
+              "Nombres": "CARLOS ALBERTO",
+              "Apellidos": "KOC FONG LI",
+              "Fecha Nacimiento": "3/30/85",
+              "DNI": "42936909",
+              "Estado Civil": "CASADO"
+          },
+          {
+              "Nombres": "ANA VALERIA",
+              "Apellidos": "KOC FONG LI",
+              "Fecha Nacimiento": "7/16/93",
+              "DNI": "47829215",
+              "Estado Civil": "SOLTERA"
+          }
         ],
         "Familiares directos de los hijos":[
-
+          {
+            "Nombres": "DANIEL ERNESTO",
+            "Apellidos": "PEREZ ARBULU",
+            "Fecha Nacimiento": "4/25/77",
+            "DNI": "54538815",
+            "Parentesco": "YERNO"
+          },
+          {
+              "Nombres": "ALEXIA MICAELA",
+              "Apellidos": "PEREZ KOC FONG",
+              "Fecha Nacimiento": "12/17/12",
+              "DNI": " ",
+              "Parentesco": "NIETA"
+          },
+          {
+              "Nombres": "DANIELA",
+              "Apellidos": "PEREZ KOC FONG",
+              "Fecha Nacimiento": "1/25/16",
+              "DNI": " ",
+              "Parentesco": "NIETA"
+          },
+          {
+              "Nombres": "YAQUELIN ",
+              "Apellidos": "CIEZA BECERRA",
+              "Fecha Nacimiento": "10/6/1991",
+              "DNI": "47640066",
+              "Parentesco": "NUERA"
+          },
+          {
+              "Nombres": "CARLOS DANIEL",
+              "Apellidos": "KOC FONG CIEZA",
+              "Fecha Nacimiento": "6/24/20",
+              "DNI": "70005148",
+              "Parentesco": "NIETO"
+          },
+          {
+              "Nombres": "CARLOS JOSE MIGUEL",
+              "Apellidos": "HERRERA SAAVEDRA",
+              "Fecha Nacimiento": "5/16/89",
+              "DNI": "70005148",
+              "Parentesco": "FUTURO YERNO"
+          }
         ],
         "Padres y suegros":[{}],
         "Fallecidos":[{}]
@@ -1748,12 +2710,45 @@
           }
         ],
         "Hijos":[
-
+          {
+            "Nombres": "PEDRO ANGEL ESTEBAN",
+            "Apellidos": "KULISIC BITTENCOURT",
+            "Fecha Nacimiento": "4/1/92",
+            "DNI": "72941167",
+            "Estado Civil": "SOLTERO"
+          },
+          {
+              "Nombres": "NICOLE MARIE",
+              "Apellidos": "KULISIC PECAR",
+              "Fecha Nacimiento": "11/11/94",
+              "DNI": "72898894",
+              "Estado Civil": "SOLTERA"
+          },
+          {
+              "Nombres": "MIGUEL ANTONIO",
+              "Apellidos": "KULISIC PECAR",
+              "Fecha Nacimiento": "11/18/97",
+              "DNI": "72898896",
+              "Estado Civil": "SOLTERO"
+          }
         ],
-        "Familiares directos de los hijos":[
-
+        "Familiares directos de los hijos":[{}],
+        "Padres y suegros":[
+          {
+            "Nombres": "MARIA BLANCA",
+            "Apellidos": "IBACETA MARTINEZ",
+            "Fecha Nacimiento": "",
+            "DNI": "",
+            "Parentesco": "MADRE"
+          },
+          {
+              "Nombres": "MARGHERITA",
+              "Apellidos": "FONTANOT VENTURA",
+              "Fecha Nacimiento": "8/5/35",
+              "DNI": "",
+              "Parentesco": "SUEGRA"
+          }
         ],
-        "Padres y suegros":[{}],
         "Fallecidos":[{}]
     },
     {   "Fecha Modificación": "",
@@ -1774,11 +2769,29 @@
         "Distrito": "Miraflores",
         "Conyuge":[{}],
         "Hijos":[
-
+          {
+            "Nombres": "GRETTA LUCIA",
+            "Apellidos": "MARSTON LARI",
+            "Fecha Nacimiento": "9/28/98",
+            "DNI": "74165303",
+            "Estado Civil": "SOLTERA"
+          },
+          {
+              "Nombres": "ERICA",
+              "Apellidos": "PARKS",
+              "Fecha Nacimiento": "12/26/84",
+              "DNI": "",
+              "Estado Civil": "CASADA"
+          },
+          {
+              "Nombres": "NICOLAS",
+              "Apellidos": "MILLER",
+              "Fecha Nacimiento": "7/16/82",
+              "DNI": "",
+              "Estado Civil": "SOLTERO"
+          }
         ],
-        "Familiares directos de los hijos":[
-
-        ],
+        "Familiares directos de los hijos":[{}],
         "Padres y suegros":[{}],
         "Fallecidos":[{}]
     }
